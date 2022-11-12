@@ -3,11 +3,15 @@
 PACKAGES=(
   core-js
   dotenv
+  eslint
+  eslint-plugin-vue
+  express
   jquery
   mongodb
   socket.io
   socket.io-client
   vue
+  vuex
 )
 
 for APP in `more apps.txt`
