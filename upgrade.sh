@@ -1,13 +1,19 @@
 #!/bin/bash
 
 PACKAGES=(
+  ago
   core-js
   dotenv
   eslint
   eslint-plugin-vue
   express
+  highlight.js
+  ini
+  javascript-time-ago
   jquery
   mongodb
+  prettier
+  qrcode
   socket.io
   socket.io-client
   vue
